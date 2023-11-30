@@ -51,6 +51,6 @@ Each function is documented with comments explaining its purpose and usage. Exam
 
 # Contribution
 
-Contributions to this collection are welcome! If you have suggestions or additional functions that can be included, feel free to create a pull request or open an issue.
+Contributions to this collection are welcome! If you have suggestions or additional functions that can be included, feel free to create a pull request.
 
 
